@@ -89,7 +89,7 @@ __{bn} licensed under the GNU General Public License v.3.0__
             [
                 [
                     InlineKeyboardButton(
-                        "sᴏᴜʀᴄᴇ​​", url="https://github.com/KennedyProject/KennedyXMusic"
+                        "ɢʀᴏᴜᴘ", url="https://t.me/PussyGenk"
                     ),
                     InlineKeyboardButton(
                         "ʙᴀᴄᴋ​", callback_data="cbadvanced"
