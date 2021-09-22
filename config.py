@@ -12,7 +12,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_NAME = getenv("BOT_NAME", "Kennedy Music")
 BG_IMAGE = getenv("BG_IMAGE", "https://telegra.ph/file/0f6f8a8a5ad69fe5ecf3d.png")
 AUD_IMG = getenv("AUD_IMG", "https://telegra.ph/file/f09189fdd97a3764a1f7a.jpg")
-BOT_IMG = getenv("BOT_IMG", "https://telegra.ph/file/fbffad50c0cff6c9001cf.jpg")
+BOT_IMG = getenv("BOT_IMG", "https://telegra.ph/file/bfa404c9e7136f3e34e79.jpg")
 admins = {}
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
@@ -21,7 +21,7 @@ ASSISTANT_NAME = getenv("ASSISTANT_NAME", "kennedyassistant")
 GROUP_SUPPORT = getenv("GROUP_SUPPORT", "kenbotsupport")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "KennedyProject")
 OWNER_NAME = getenv("OWNER_NAME", "xgothboi") # isi dengan username kamu tanpa simbol @
-DEV_NAME = getenv("DEV_NAME", "xgothboi")
+DEV_NAME = getenv("DEV_NAME", "SiniAkuSepongin")
 PMPERMIT = getenv("PMPERMIT", "ENABLE")
 
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "30"))
